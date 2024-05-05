@@ -1,3 +1,5 @@
 archivo de prueba 2 para practica git
 
 cambio en archivo2
+
+versión para github
